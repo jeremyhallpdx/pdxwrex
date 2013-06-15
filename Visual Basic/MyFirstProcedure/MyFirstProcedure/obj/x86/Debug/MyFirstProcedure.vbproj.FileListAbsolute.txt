@@ -1,0 +1,14 @@
+D:\Programming\MyFirstProcedure\MyFirstProcedure\bin\Debug\MyFirstProcedure.exe
+D:\Programming\MyFirstProcedure\MyFirstProcedure\bin\Debug\MyFirstProcedure.pdb
+D:\Programming\MyFirstProcedure\MyFirstProcedure\bin\Debug\MyFirstProcedure.xml
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.Form1.resources
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.Resources.resources
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.exe
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.xml
+D:\Programming\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.pdb
+C:\Users\Elaine\Dropbox\Dev\Visual Basic\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.exe
+C:\Users\Elaine\Dropbox\Dev\Visual Basic\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.xml
+C:\Users\Elaine\Dropbox\Dev\Visual Basic\MyFirstProcedure\MyFirstProcedure\obj\x86\Debug\MyFirstProcedure.pdb

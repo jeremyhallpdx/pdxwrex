@@ -1,0 +1,49 @@
+#include <iostream>
+#include <string>
+#include <iomanip>
+
+using namespace std;
+
+/*int main()
+{
+	double score = 0.0;
+
+	cout << "Please enter a score: " << endl;
+	cin >> score;
+	
+	switch (static_cast<int> (score) / 10)
+	{
+	case 10:
+	case 9:
+		cout << "\nA" << endl;
+		break;
+	case 8:
+		cout << "\nB" << endl;
+		break;
+	case 7:
+		cout << "\nC" << endl;
+		break;
+	case 6:
+		cout << "\nD" << endl;
+		break;
+	case 5:
+		cout << "\nFail." << endl;
+		break;
+	case 4:
+		cout << "\nFail." << endl;
+		break;
+	case 3:
+		cout << "\nFail." << endl;
+		break;
+	case 2:
+		cout << "\nFail." << endl;
+		break;
+	case 1:
+		cout << "\nFail." << endl;
+		break;
+	default:
+		cout << "\nInvalid input!" << endl;
+	}
+	
+	return 0;
+}

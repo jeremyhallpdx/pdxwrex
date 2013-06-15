@@ -1,0 +1,28 @@
+struct person { };
+int main() {
+person [NUMBER_OF_TYPE_OF_PEOPLE][MAX_OF_EACH];
+//this is above:
+const int CUSTOMER = 0;
+const int EMPLOYEE = 1;
+const int MANAGER = 2;
+const int MAX_PEOPLE = 3;
+const int ARRAY_SIZE = 500;
+//back in main:
+person[MAX_PEOPLE][ARRAY_SIZE];
+cout << "who are you? 0 = customer, 1 = manager = 2";
+int input;
+cin >> input;
+//error check/bounds check the above
+if(input == CUSTOMER) {
+//call customer sub menu that only has functionality of what a customer can do
+}
+else if(input == EMPLOYEE) {
+//call customer sub menu that only has functionality of what a employee does
+}
+
+
+//outside of main
+void customer_submenu() {
+ Sent at 5:50 PM on Sunday
+ Brandon:  //anytime I index the array it will be like this:
+people[CUSTOMER][i].someVariable

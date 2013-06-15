@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="a02">
+</Property><Property Name="Solution File" Value="D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a02\a02.sln">
+</Property><Property Name="User Options File" Value="D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a02\a02.suo">
+</Property><Property Name="Date" Value="Wednesday, December 07, 2011">
+</Property><Property Name="Time" Value="10:59 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="a02.sln" Description="File successfully backed up as D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a02\a02.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="a02.suo" Description="File successfully backed up as D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a02\a02.suo.old">
+</Event><Event ErrorLevel="0" Project="a02" Source="a02\a02.vcproj" Description="Converting project file 'D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a02\a02\a02.vcproj'.">
+</Event><Event ErrorLevel="1" Project="a02" Source="a02\a02.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="a02" Source="a02\a02.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="a02" Source="a02\a02.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="a02" Source="a02\a02.vcproj" Description="Done converting to new project file 'D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a02\a02\a02.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="a02" Source="a02\a02.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="a02.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="a02.sln" Description="Converted">
+</Event></UpgradeLog>

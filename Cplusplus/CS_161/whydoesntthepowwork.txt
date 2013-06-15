@@ -1,0 +1,17 @@
+int main()
+{
+	int a;
+	int b;
+	int c;
+	
+	cout << "Please enter... " << endl;
+	if (pow(a, 2) == (pow(b, 2) + pow(c, 2))
+		cout << "You have a right triangle." << endl;
+
+	else if (pow(b, 2) == (pow(a, 2) + (pow(c, 2))
+		cout << "You have a right triangle." << endl;
+
+
+	return 0;
+
+}

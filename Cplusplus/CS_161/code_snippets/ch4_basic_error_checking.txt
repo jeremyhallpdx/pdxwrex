@@ -1,0 +1,27 @@
+*** If Statements ***
+
+!!Error checking for an int variable!!
+
+int main()
+{
+	int userInput;
+
+	cout << "Please enter an integer: ";
+	cin >> userInput;
+	if (!cin)
+	{
+		cout << "Invalid input.  Program terminating."  << endl;
+		return (-1);
+	}
+	cin.ignore (100, '\n');
+
+	if (userInput > 0)
+		cout << "\nThe number is positive." << endl;
+	else if (userInput < 0)
+		cout << "\nThe number is negative." << endl;
+	else
+		cout << "\nThe number is 0." << endl;
+
+	return 0;
+
+}

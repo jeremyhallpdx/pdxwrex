@@ -1,0 +1,15 @@
+
+Jeremy Hall 1001 613.21 0
+Danielle Baxter 1002 101.00 0
+Jimi Hendrix 1003 348.33 0
+Bob Dylan 1004 426.29 0
+Eric Clapton 1005 580.55 0
+Madison Grace 1006 681.66 0
+Robert Johnson 1007 848.42 1
+Charlie Brown 1008 888.88 1
+Peter Parker 1009 999.99 2
+Clark Kent 1010 1000.01 3
+Stevie Wonder 1011 2222.22 3
+Bruce Wayne 1013 9999.99 0
+Smokey Robinson 1012 111.11 0
+Homer Simpson 5555 555.55 0

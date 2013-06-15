@@ -1,0 +1,6 @@
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\helloworld_console\helloworld_console\bin\Debug\helloworld_console.exe.config
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\helloworld_console\helloworld_console\bin\Debug\helloworld_console.exe
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\helloworld_console\helloworld_console\bin\Debug\helloworld_console.pdb
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\helloworld_console\helloworld_console\obj\Debug\helloworld_console.csprojResolveAssemblyReference.cache
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\helloworld_console\helloworld_console\obj\Debug\helloworld_console.exe
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\helloworld_console\helloworld_console\obj\Debug\helloworld_console.pdb

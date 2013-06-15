@@ -1,0 +1,66 @@
+11
+John
+Smith
+2225
+123 W. Main ST.
+Hillsboro
+Oregon
+97124
+(503) 681-0685
+Savings
+10356.27
+-1
+0
+CreditCard
+-345.78
+
+12
+Jane
+Gomez
+1234
+224 4th Court
+Hillsboro
+Oregon
+97124
+(503) 768-5577
+Savings
+15642.89
+-1
+0
+CreditCard
+-3367.89
+
+13
+Sara
+Jones
+4456
+34778 Storey St.
+Hillsboro
+Oregon
+97123
+(503) 345-8970
+Savings
+1234.56
+Checking
+34.76
+CreditCard
+-89.90
+-1
+0
+
+
+14
+Frank
+Surely
+2345
+2290 8th Ave
+Beaverton
+Oregon
+97016
+(503) 678-9090
+Savings
+543654.98
+Checking
+8767.00
+-1
+0

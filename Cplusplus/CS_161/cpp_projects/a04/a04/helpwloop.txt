@@ -1,0 +1,20 @@
+inFile >> name >> gender >> school; 
+inFile.ignore();
+inFile >> score;
+cout << fixed << showpoint << setprecision(2);
+cout << setw(20) << left << name << setw(5) << left << gender 
+     << setw(5) << left << school << setw(6) << left << score << endl;
+
+while (inFile)
+{
+	i++;		// Incrementing for line(loop) count.
+	inFile >> name >> gender >> school; 
+	inFile.ignore();
+	inFile >> score;
+	cout << fixed << showpoint << setprecision(2);
+	cout << setw(20) << left << name << setw(5) << left << gender 
+             << setw(5) << left << school << setw(6) << left << score << endl;
+
+There's more below and the closing brace for the while loop.
+
+The source builds just fine... I just can't get it to stop reading the last line (Gabriel's info) twice.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="a06">
+</Property><Property Name="Solution File" Value="D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a06\a06.sln">
+</Property><Property Name="User Options File" Value="D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a06\a06.suo">
+</Property><Property Name="Date" Value="Sunday, October 03, 2010">
+</Property><Property Name="Time" Value="14:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="a06.sln" Description="File successfully backed up as D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a06\a06.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="a06.suo" Description="File successfully backed up as D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a06\a06.suo.old">
+</Event><Event ErrorLevel="0" Project="a06" Source="a06\a06.vcproj" Description="Converting project file 'D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a06\a06\a06.vcproj'.">
+</Event><Event ErrorLevel="1" Project="a06" Source="a06\a06.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="a06" Source="a06\a06.vcproj" Description="Done converting to new project file 'D:\PCC\2008-2009\Fall_08\CS_161\cpp_projects\a06\a06\a06.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="a06" Source="a06\a06.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="a06.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="a06.sln" Description="Converted">
+</Event></UpgradeLog>

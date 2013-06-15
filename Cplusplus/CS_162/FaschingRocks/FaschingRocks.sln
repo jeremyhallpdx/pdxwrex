@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaschingRocks", "FaschingRocks\FaschingRocks.vcproj", "{AC60F55F-5CC4-4F61-A2B9-68668A2A2F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC60F55F-5CC4-4F61-A2B9-68668A2A2F5A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC60F55F-5CC4-4F61-A2B9-68668A2A2F5A}.Debug|Win32.Build.0 = Debug|Win32
+		{AC60F55F-5CC4-4F61-A2B9-68668A2A2F5A}.Release|Win32.ActiveCfg = Release|Win32
+		{AC60F55F-5CC4-4F61-A2B9-68668A2A2F5A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

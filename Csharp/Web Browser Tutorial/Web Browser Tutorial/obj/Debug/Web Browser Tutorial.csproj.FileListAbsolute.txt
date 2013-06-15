@@ -1,0 +1,9 @@
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\bin\Debug\Web Browser Tutorial.exe.config
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\obj\Debug\Web Browser Tutorial.csprojResolveAssemblyReference.cache
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\obj\Debug\Web_Browser_Tutorial.Form1.resources
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\obj\Debug\Web_Browser_Tutorial.Properties.Resources.resources
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\obj\Debug\Web Browser Tutorial.csproj.GenerateResource.Cache
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\bin\Debug\Web Browser Tutorial.exe
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\bin\Debug\Web Browser Tutorial.pdb
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\obj\Debug\Web Browser Tutorial.exe
+c:\users\jeremy.hall\documents\visual studio 2012\Projects\Web Browser Tutorial\Web Browser Tutorial\obj\Debug\Web Browser Tutorial.pdb

@@ -1,0 +1,3 @@
+Mike                     Smith                    48288.3                  
+John                     Doe                      47887.6                  
+Mary                     Smith                    99746.6                  
