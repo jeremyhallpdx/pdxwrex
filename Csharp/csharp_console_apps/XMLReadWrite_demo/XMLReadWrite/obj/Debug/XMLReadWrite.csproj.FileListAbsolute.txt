@@ -1,0 +1,7 @@
+C:\Users\jeremy.hall\Desktop\XMLReadWrite_demo\XMLReadWrite\bin\Debug\XMLReadWrite.exe
+C:\Users\jeremy.hall\Desktop\XMLReadWrite_demo\XMLReadWrite\bin\Debug\XMLReadWrite.pdb
+C:\Users\jeremy.hall\Desktop\XMLReadWrite_demo\XMLReadWrite\obj\Debug\XMLReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.hall\Desktop\XMLReadWrite_demo\XMLReadWrite\obj\Debug\XMLReadWrite.Form1.resources
+C:\Users\jeremy.hall\Desktop\XMLReadWrite_demo\XMLReadWrite\obj\Debug\XMLReadWrite.csproj.GenerateResource.Cache
+C:\Users\jeremy.hall\Desktop\XMLReadWrite_demo\XMLReadWrite\obj\Debug\XMLReadWrite.exe
+C:\Users\jeremy.hall\Desktop\XMLReadWrite_demo\XMLReadWrite\obj\Debug\XMLReadWrite.pdb
