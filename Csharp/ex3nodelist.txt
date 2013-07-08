@@ -1,0 +1,10 @@
+<Reply type="Connection">
+	<ErrorMessage/>
+	<ErrorCode>0</ErrorCode>
+</Reply>
+<Reply type="Execute">
+	<Addition C="15">
+		<ErrorMessage/>
+		<ErrorCode>0</ErrorCode>
+	</Addition>
+</Reply>

@@ -18,4 +18,13 @@
 <eoapi:reply xmlns:eoapi="http://www.adp.com/eoapi" version="1.0">
 	<Session>
 		<Reply type="Connection">
-			<ErrorMessage/><ErrorCode>0</ErrorCode></Reply><Reply type="Execute"><Error Severity="Fatal" Line="11" Column="18">Expected an attribute value</Error></Reply></Session></eoapi:reply>
+			<ErrorMessage/>
+			<ErrorCode>0</ErrorCode>
+		</Reply>
+		<Reply type="Execute">
+			<Error Severity="Fatal" Line="11" Column="18">Expected an attribute value</Error>
+		</Reply>
+	</Session>
+</eoapi:reply>
+
+<?xml version="1.0" encoding="UTF-8"?><eoapi:reply xmlns:eoapi="http://www.adp.com/eoapi" version="1.0"><Session><Reply type="Connection"><ErrorMessage/><ErrorCode>0</ErrorCode></Reply><Reply type="Execute"><Addition><ErrorMessage>&apos;a&apos; is not a parameter for &apos;Addition&apos;</ErrorMessage><ErrorCode>-1</ErrorCode></Addition></Reply></Session></eoapi:reply>
